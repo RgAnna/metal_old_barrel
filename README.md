@@ -1,5 +1,8 @@
 ## Rusty Metal Barrel – Game Asset
 
+![Project Preview](https://github.com/RgAnna/metal_old_barrel/blob/main/Render/Barrel_02.png)
+![Project Preview](https://github.com/RgAnna/metal_old_barrel/blob/main/Render/Barrel_01.png)
+
 This is a low-poly 3D asset of a rusty metal barrel optimized for game engines.
 
 - **Tris:** 918  
