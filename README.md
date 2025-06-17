@@ -1,7 +1,5 @@
 ## Rusty Metal Barrel – Game Asset
 
-
-
 This is a low-poly 3D asset of a rusty metal barrel optimized for game engines.
 
 - **Tris:** 918  
@@ -17,6 +15,7 @@ This is a low-poly 3D asset of a rusty metal barrel optimized for game engines.
 
 The low-poly mesh was baked from a high-poly version.
 
+__Preview on Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)  
 __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
 
 ---
@@ -38,5 +37,5 @@ __Contact:__ [https://www.artstation.com/rganna](https://www.artstation.com/rgan
 
 Лоу-поли модель запечена с хай-поли версии.
 
-__Контакты:__ [https://www.artstation.com/rganna](https://www.artst)
-
+__Превью на Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)  
+__Контакты:__ [https://www.artstation.com/rganna](https://www.artstation.com/rganna)
