@@ -1,4 +1,7 @@
-## Rusty Metal Barrel – Game Asset
+
+<h1 align="center"> 3D Game Asset <a href="https://skfb.ly/p9QyH" target="_blank">Rusty Metal Barrel</a> 
+
+## Description
 
 ![Project Preview](https://github.com/RgAnna/metal_old_barrel/blob/main/Render/Barrel_02.png)
 ![Project Preview](https://github.com/RgAnna/metal_old_barrel/blob/main/Render/Barrel_01.png)
@@ -31,7 +34,10 @@ __Preview on Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)
 
 ___
 
-## Старая металлическая бочка – игровой ассет
+
+<h1 align="center"> 3D Модель игровой ассет <a href="https://skfb.ly/p9QyH" target="_blank">Старая металлическая бочка</a> 
+
+## Описание
 
 Низкополигональный 3D-ассет старой металлической бочки, оптимизированный для игровых движков.
 
