@@ -16,7 +16,7 @@ This is a low-poly 3D asset of a rusty metal barrel optimized for game engines.
 - Metalness  
 - Ambient Occlusion  
 
-The low-poly mesh was baked from a high-poly version.
+
 
 __Preview on Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)  
 
@@ -46,7 +46,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)
 - Metalness  
 - Ambient Occlusion  
 
-Лоу-поли модель запечена с хай-поли версии.
+
 
 __Превью на Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)  
 
