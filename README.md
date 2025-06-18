@@ -1,5 +1,5 @@
 
-<h1 align="center"> 3D Game Asset <a href="https://skfb.ly/p9QyH" target="_blank">Rusty Metal Barrel</a> 
+<h1 align="center"> Game Asset <a href="https://skfb.ly/p9QyH" target="_blank">Rusty Metal Barrel</a> 
 
 
 
@@ -37,7 +37,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/p9QyH](https://skfb.ly/p9QyH)
 ___
 
 
-<h1 align="center"> 3D Модель игровой ассет <a href="https://skfb.ly/p9QyH" target="_blank">Старая металлическая бочка</a> 
+<h1 align="center"> Игровой ассет <a href="https://skfb.ly/p9QyH" target="_blank">Старая металлическая бочка</a> 
 
 ## Описание
 
